@@ -1,4 +1,4 @@
-module api-contract
+module github.com/aznovar/gRPC_auth_mindrp
 
 go 1.22
 
